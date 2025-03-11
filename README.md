@@ -1,3 +1,5 @@
+![alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZsaGFyMWRlMWtqMmo2bTd6eXZ0bWFsYnZiYm95b3RiNDJnNDJkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iu7B5XKE6NsE8/giphy.gif)
+
 # 💫 About Me:
 🙋‍♂️ Hi! I’m Muhammad Hamzah Syafiq Lubis, a data enthusiast passionate about turning raw data into actionable insights.  <br>☘️ I’m currently learning<br>🌟 Always open to collaborate on data projects or discuss optimization tricks!<br>💬 Let’s chat about data engineering, BI tools, or anything data-related! <br>📫 Reach me: m.hamzah.syafiq@gmail.com
 
@@ -24,3 +26,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HamzahLubis&icon=10&color=13)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamzahLubis/HamzahLubis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzahLubis/HamzahLubis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HamzahLubis/HamzahLubis/output/github-snake.svg" />
+</picture>
