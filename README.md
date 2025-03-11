@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZsaGFyMWRlMWtqMmo2bTd6eXZ0bWFsYnZiYm95b3RiNDJnNDJkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iu7B5XKE6NsE8/giphy.gif" alt="Funny GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd3ZDc2ODZrZGt2dmViN3l2ajA0dnFsbDJudzhtZ3U2aGZmcmZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DeKJrr8vovqXC/giphy.gif" alt="Funny GIF"> 
 </div>
 
 # 🙋‍♂️ Hi! I’m Hamzah
@@ -16,3 +16,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzahLubis/HamzahLubis/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/HamzahLubis/HamzahLubis/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJhOXJtdXF4anBrMXRoandqN2tqYmF3ODc5dWZnNmhpY3BoMXpwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7QTz4SWgGnvO/giphy.gif" alt="Funny GIF"> 
+</div>
